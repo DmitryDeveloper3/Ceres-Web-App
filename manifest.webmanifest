@@ -1,0 +1,10 @@
+{
+  "name": "Ceres — совместные B2B-закупки",
+  "short_name": "Ceres",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EFE4",
+  "theme_color": "#173B2A",
+  "description": "Демонстрационное веб-приложение Ceres для совместных B2B-закупок"
+}

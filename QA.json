@@ -1,0 +1,24 @@
+{
+  "edition": "CERES WEB APP GITHUB READY",
+  "github_pages_relative_paths": true,
+  "external_dependencies": false,
+  "catalog_items": 25,
+  "local_storage": true,
+  "canonical_flow": "7400 -> +1000 -> 8400 -> 10000 -> 25 RUB to 21 RUB -> final terms -> Net Saving",
+  "screens": [
+    "home",
+    "catalog",
+    "product",
+    "join",
+    "purchases",
+    "events",
+    "profile",
+    "support",
+    "calculator",
+    "final terms"
+  ],
+  "notes": [
+    "Static source package generated for GitHub Pages.",
+    "No external framework/CDN required."
+  ]
+}
